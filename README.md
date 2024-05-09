@@ -43,3 +43,7 @@ $(function() {
 - `containment`: Restricts sorting to within a specified element or the viewport.
 - `items`: Specifies which items within the list are sortable.
 - `tolerance`: Defines the sensitivity of sorting activation ("pointer" activates sorting when the cursor overlaps an item).
+
+---
+
+A demo is available to use [here](https://codepen.io/maesangaline/pen/ZEjLpdO).
