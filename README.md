@@ -27,6 +27,16 @@ $(function() {
 });
 ```
 
+3. Make sure your HTML structure includes an unordered list (<ul>) with list items (<li>) that you want to make sortable:
+
+```html
+<ul>
+  <li>Item 1</li>
+  <li>Item 2</li>
+  <li>Item 3</li>
+</ul>
+```
+
 ## Configuration Options
 
 - `axis`: Specifies the axis along which sorting is allowed ("x" for horizontal, "y" for vertical).
