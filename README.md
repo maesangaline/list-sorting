@@ -2,7 +2,7 @@
 
 This is a simple jQuery script that enables sortable functionality for a list using the jQuery UI Sortable plugin. It also disables text selection within the list for a better user experience during sorting.
 
-## Getting Started
+## Getting started
 
 To use this script, follow these steps:
 
@@ -37,7 +37,7 @@ $(function() {
 </ul>
 ```
 
-## Configuration Options
+## Configuration options
 
 - `axis`: Specifies the axis along which sorting is allowed ("x" for horizontal, "y" for vertical).
 - `containment`: Restricts sorting to within a specified element or the viewport.
