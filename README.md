@@ -27,7 +27,7 @@ $(function() {
 });
 ```
 
-3. Make sure your HTML structure includes an unordered list (<ul>) with list items (<li>) that you want to make sortable:
+3. Make sure your HTML structure includes an unordered list (`<ul>`) with list items (`<li>`) that you want to make sortable:
 
 ```html
 <ul>
