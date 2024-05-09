@@ -1,4 +1,4 @@
-# Sortable List
+# Sortable list
 
 This is a simple jQuery script that enables sortable functionality for a list using the jQuery UI Sortable plugin. It also disables text selection within the list for a better user experience during sorting.
 
